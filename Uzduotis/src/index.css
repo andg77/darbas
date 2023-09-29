@@ -1,0 +1,21 @@
+.formik-form {
+  width: 375px;
+  margin: 0 auto;
+}
+
+.formik-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+}
+
+.formik-submit {
+  background-color: #F2877D;
+  color: #000000;
+  font-size: 16px;
+  line-height: 24px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
